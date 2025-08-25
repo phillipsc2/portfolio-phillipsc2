@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Cameron Phillips"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Athens, OH"
   employer         : "Hocking College"
   uri              : # URL
