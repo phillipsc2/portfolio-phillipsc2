@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/phillipsc2/phillipsc2.github.io/issues"
   },
-  "homepage": "https://github.com/phillipsc2/phillipsc2.github.io",
+  "homepage": "https://phillipsc2.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
