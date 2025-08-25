@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Cameron Phillips / Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Cameron Phillips"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Athens, OH"
+  employer         : "Hocking College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "notcameronphillips@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "@cameronp1"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
