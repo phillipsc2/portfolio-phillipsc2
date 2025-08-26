@@ -13,7 +13,7 @@ title                    : "Cameron Phillips / Portfolio"
 title_separator          : "-"
 name                     : &name "Cameron Phillips"
 description              : &description "personal description"
-url                      : https://academicpages.github.io
+url                      : https://phillipsc2.github.io/portfolio-phillipsc2/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "phillipsc2/portfolio-phillipsc2"
 
