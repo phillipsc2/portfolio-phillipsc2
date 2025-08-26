@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Cameron Phillips / Portfolio"
 title_separator          : "-"
 name                     : &name "Cameron Phillips"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Cameron Phillips"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Athens, OH"
   employer         : "Hocking College"
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
