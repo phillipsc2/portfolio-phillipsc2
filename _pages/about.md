@@ -15,6 +15,6 @@ Test
 
 Test
 ======
-[Portfolio](cameronp1.com/portfolio/cybr-1100-security-awareness/week1.md)
+[week1.md](cameronp1.com/portfolio/cybr-1100-security-awareness/week1)
 
 **Test**
