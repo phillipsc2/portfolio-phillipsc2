@@ -3,6 +3,7 @@ title: "About"
 sitemap: false
 permalink: /404.html
 ---
+Welcome to cameronp1.com!
 
 About Me
 ======
