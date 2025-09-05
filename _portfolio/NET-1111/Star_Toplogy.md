@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Star Topology"
+permalink: /portfolio/Star_Topology
+author_profile: true
+---
+
 Star Toplogy
 --
 Star Topology is a network design where every end device (computers) is connected to a central hub (a switch, or router). The connections form a 'star' shape. This setup is common due to its simplicity and easier troubleshooting, though failure of the central hub would result in the entire networking going down. 
