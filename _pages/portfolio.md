@@ -6,4 +6,4 @@ author_profile: true
 ---
 **Cisco Intro to Networks**
 
-Star Topology
+[Star Topology](/portfolio/Star_Topology)
