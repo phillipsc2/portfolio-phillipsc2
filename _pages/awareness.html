@@ -1,60 +1,38 @@
 ---
 layout: default
 permalink: /awareness/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
+
+<!DOCTYPE html>
 <html>
+<head>
+<style>
+  .color1 { background-color: white; }
+  .color2 { background-color: red; }
+</style>
+</head>
 <body>
-    <!-- The div that will have the 
-        blinking background -->
-    <div id="blinkDiv" style="width: 400px; 
-                height: 100px; 
-                padding: 20px; 
-                text-align: center; 
-                font-size: 24px;">
-                
-        <!-- Content inside the div -->
-        <h1 style="color: red;">
-            YOUR COMPUTER HAS BEEN INFECTED!!!
-        </h1>
-    </div>
 
-    <script>
+<script>
+  const body = document.body;
+  let isColor1 = true;
 
-        // Get the div element by its ID
-        const blinkDiv =
-            document.getElementById('blinkDiv');
+  function toggleBackgroundColor() {
+    if (isColor1) {
+      body.classList.remove('color1');
+      body.classList.add('color2');
+    } else {
+      body.classList.remove('color2');
+      body.classList.add('color1');
+    }
+    isColor1 = !isColor1;
+  }
 
-        // An array of colors to be used for blinking
-        const colors = ['#ff0000', 'black', '#0000ff'];
+  setInterval(toggleBackgroundColor, 400); // Change every 400 milliseconds (0.4 seconds)
+</script>
 
-        // Variable to keep track of the
-        // current color index
-        let currentColorIndex = 0;
-
-        // Function to toggle the background
-        // color of the div
-        function blinkBackground() {
-            blinkDiv.style.backgroundColor =
-                colors[currentColorIndex];
-            currentColorIndex =
-                (currentColorIndex + 1) % colors.length;
-        }
-
-        // Start the blinking by setting an interval 
-        // that calls the blinkBackground 
-        // function every 1000ms (1 second)
-        const blinkingInterval =
-            setInterval(blinkBackground, 1000);
-
-        // To stop blinking after 5 seconds, 
-        // use setTimeout to clear the interval
-        setTimeout(() => {
-            clearInterval(blinkingInterval);
-        }, 5000);
-    </script>
 </body>
-
 </html>
