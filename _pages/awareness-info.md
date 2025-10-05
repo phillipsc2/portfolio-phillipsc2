@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /warning/awareness/awareness-info
+permalink: /awareness-info/
 author_profile: false
 ---
 <h1>DO NOT EVER SUBMIT YOUR INFO TO WEBSITES LIKE THAT!</h1>
