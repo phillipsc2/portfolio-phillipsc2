@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Photosensitivity warning
 permalink: /warning/
 author_profile: false
