@@ -8,3 +8,5 @@ author_profile: false
 The following page contains flashing lights and an audio element. It is intended to simulate real phishing websites that attempt to scare users into falling for scams.
 
 [Proceed](awareness)
+
+[Skip to Phishing Information](awareness-info)
