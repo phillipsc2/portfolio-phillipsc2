@@ -1,9 +1,0 @@
-.flashing-element {
-  animation: blink 1s step-start infinite; /* Adjust duration and timing as needed */
-}
-
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
