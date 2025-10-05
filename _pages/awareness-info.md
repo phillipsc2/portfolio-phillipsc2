@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /awareness-info/
 author_profile: false
 ---
