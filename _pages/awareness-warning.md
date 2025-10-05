@@ -12,6 +12,3 @@ The following page contains flashing lights and an audio element. It is intended
 [Proceed](https://cameronp1.com/warning/awareness)
 
 [Skip to information about phishing (no flashing lights)](https://cameronp1.com/awareness-info)
-
-</body>
-</html> 
