@@ -7,10 +7,10 @@ author_profile: false
 ## FLASHING LIGHTS AND LOUD SOUNDS AHEAD!
 The following page contains flashing lights and an audio element. It is intended to simulate real phishing websites that attempt to scare users into falling for scams.
 
-<form action="/warning/awareness/">
+<form action="https://cameronp1.com/awareness">
     <input type="submit" value="Proceed" />
 </form>
 
-<form action="/awareness-info/">
+<form action="https://cameronp1.com/awareness-info">
     <input type="submit" value="Skip to information about phishing" />
 </form>
