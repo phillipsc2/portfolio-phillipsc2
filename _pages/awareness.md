@@ -13,8 +13,8 @@ author_profile: true
 </head>
 <body>
 
-<h1>Heading</h1>
-<p>Paragraph</p>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
 </body>
 </html>
