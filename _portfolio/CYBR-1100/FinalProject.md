@@ -1,6 +1,6 @@
 ---
 title: "About"
 sitemap: false
-permalink: /CYBR-1100/FinalProject/
+permalink: /portfolio/Final_Project
 ---
 Test
