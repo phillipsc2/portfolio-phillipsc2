@@ -31,3 +31,11 @@ Last but not least, <b>don't reply to messages like this no matter what.</b> Eve
 <strong>BE SKEPTICAL OF URGENCY:</strong> Scams will typically try to convince you that there is an imminent deadline of some kind, like on the previous page.
 
 <strong>PLEASE USE COMMON SENSE</strong>: Ask yourself, does it sound too good to be true?
+
+<h2>Further reading</h2>
+
+[Federal Trade Commission: How to Recognize and Avoid Phishing Scams](https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams)
+
+[Office of the Comptroller of the Currency: Phishing Attack Prevention](https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/phishing-attack-prevention.html)
+
+[Official Microsoft support: Protecting yourself from phishing](https://support.microsoft.com/en-us/windows/protect-yourself-from-phishing-0c7ea947-ba98-3bd9-7184-430e1f860a44)
